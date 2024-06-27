@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import "./Signup.css";
 import { Link, useLocation, useNavigate } from "react-router-dom";
 import { BsEyeSlash } from "react-icons/bs";

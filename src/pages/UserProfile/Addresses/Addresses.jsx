@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from "react";
 import { useAddress } from "../../../contexts/AddressProvider.js";
 import { useUserData } from "../../../contexts/UserDataProvider.js";

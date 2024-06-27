@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from "react";
 import { MdDiscount } from "react-icons/md";
 import { toast } from "react-hot-toast";
